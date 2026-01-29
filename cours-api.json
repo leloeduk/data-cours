@@ -20,6 +20,13 @@
       "level": "Avancé",
       "duration": "15h",
       "isFree": false
+    }, 
+       {
+      "id": 3,
+      "title": "CRud Flutter",
+      "level": "Avancé",
+      "duration": "10h",
+      "isFree": true
     }
   ]
 }
