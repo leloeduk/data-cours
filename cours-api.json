@@ -1,0 +1,25 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Flutter pour débutants",
+      "level": "Débutant",
+      "duration": "10h",
+      "isFree": true
+    },
+    {
+      "id": 2,
+      "title": "Flutter & API REST",
+      "level": "Intermédiaire",
+      "duration": "12h",
+      "isFree": false
+    },
+    {
+      "id": 3,
+      "title": "Clean Architecture Flutter",
+      "level": "Avancé",
+      "duration": "15h",
+      "isFree": false
+    }
+  ]
+}
