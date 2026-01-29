@@ -27,6 +27,13 @@
       "level": "Intermédiaire",
       "duration": "10h",
       "isFree": true
+    },
+      {
+      "id": 5,
+      "title": "Clone Tiktok Flutter",
+      "level": "Avancé",
+      "duration": "20h",
+      "isFree": false
     }
   ]
 }
