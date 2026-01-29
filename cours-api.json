@@ -34,6 +34,14 @@
       "level": "Avancé",
       "duration": "20h",
       "isFree": false
+    },
+     {
+      "id": 6,
+      "title": "Flutter pour débutants",
+      "level": "Avancé",
+      "duration": "20h",
+      "isFree": true
     }
+    
   ]
 }
